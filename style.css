@@ -1,0 +1,57 @@
+/* browser resets */
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+nav{
+    background-color: rgb(62, 202, 116);
+    color: black;
+    padding-bottom: 2%;
+    padding-top: 2;
+ 	font-size: 2em;
+}
+
+#banner img{
+    width: 80%;
+    height: auto;
+    
+}
+
+#text{
+    display: flex;
+    padding: 3%;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+#box1{
+ width: 40%;
+ height: auto;
+ padding-right: 2%;
+
+}
+
+#box2{
+width: 40%;
+height: auto;
+
+}
+
+#box3 img{
+    width: 70%;
+    padding-top: 2%;
+}
+
+li{
+    text-align: left;
+}
+main{
+    background-color: aquamarine;
+    text-align: center;
+ font-size: 2em;
+}
+
+footer{
+    padding-left: 1%;
+    background-color: salmon;
+}
